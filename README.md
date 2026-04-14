@@ -4,6 +4,10 @@ ComfyUI_RefineAnything
 ----
 [RefineAnything](https://github.com/limuloo/RefineAnything):Multimodal Region-Specific Refinement for Perfect Local Details
 
+# Notice
+* if use refer image ,refer image must link image2 and mask  link image3；
+* 注意，使用参考图模式时，参考图必须连接image2 ，遮罩连image3；
+
 
 1.Installation  
 -----
@@ -32,8 +36,10 @@ ComfyUI_RefineAnythingComfyUI_MagiHuman
 
 3.Example
 -----
+* normal
 ![](https://github.com/smthemex/ComfyUI_RefineAnything/blob/main/example_workflows/example.png)
-
+* refer image
+![](https://github.com/smthemex/ComfyUI_RefineAnything/blob/main/example_workflows/example_r.png)
 
 ## 📖 Citation
 
